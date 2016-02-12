@@ -1,3 +1,3 @@
-Git a  interesting version control system.
-Git is free sofrware.
+Git is a  distributed version control system.
+Git is free sofrware distributed under the GPL.
 
