@@ -1,3 +1,3 @@
-Git a version control system.
+Git a  interesting version control system.
 Git is free sofrware.
 
